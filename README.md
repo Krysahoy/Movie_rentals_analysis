@@ -1,7 +1,7 @@
 # Movie_rentals_analysis
 
 This project was completed as part of the requirements for the Data Analytics intensive program. 
-The data used was downloaded from https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database
+The data used was downloaded from [Kaggle.com.](https://www.kaggle.com/datasets/atanaskanev/sqlite-sakila-sample-database)
 
 ###  Tableau Learning Objectives with Review:
 - Hide data or create aliases	
@@ -35,7 +35,7 @@ You are in a new role at a movie streaming company called Sakila. Upper manageme
   9. Identify customer rental trend over time. 
 
 #### Tableau dashboard: 
-https://public.tableau.com/views/MovieAnalysis_16768808987310/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Movie Rentals Analaysis.](https://public.tableau.com/views/MovieAnalysis_16768808987310/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Analysis: TBC
 
